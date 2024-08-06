@@ -13,7 +13,7 @@
 
 
 ## Leetcode
-![Leetcode](https://leetcard.jacoblin.cool/Teta?theme=nord&font=Aclonica)
+[![Leetcode](https://leetcard.jacoblin.cool/Teta?theme=nord&font=Aclonica)](https://leetcode.com/u/oegVqGWhPE/)
 
 
 #### <center>И предлагайте<center/>
