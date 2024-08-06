@@ -1,6 +1,6 @@
 # <center>Критикуйте<center/>
 [![Telegram](https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=Telegram&logoColor=23a9e9)](https://t.me/Petaurka)
-[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discordapp/users/613029474384084995)
+[![Discord](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://petaurka/)
 
 
 
